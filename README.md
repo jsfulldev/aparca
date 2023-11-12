@@ -64,7 +64,7 @@ APARCA es una aplicación de gestión de parqueaderos que ofrece una solución i
 
 ### Administrador
 El perfil de administrador tiene las siguientes funciones:
-- Cambio de Rol.
+- Cambio de Rol de los usuarios
 - Visualización de todos los vehículos y usuarios registrados.
 - Estadísticas a través de gráficas circulares y de barras.
 
@@ -72,11 +72,10 @@ El perfil de administrador tiene las siguientes funciones:
 El perfil de empleado cuenta con las siguientes funciones:
 - Registro de ingreso de vehículos por medio de la placa.
 - Marcado de salida por lectura del código QR.
-- Modificación del campo de la placa en caso de error de lectura.
 
 ### Usuario
 El usuario final puede:
-- Registrar y eliminar vehículos, evitando duplicados de placas.
+- Registrar y eliminar vehículos.
 - Consultar un historial de ingresos y salidas.
 - Personalizar su perfil modificando datos personales.
 
